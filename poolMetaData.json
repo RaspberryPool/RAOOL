@@ -2,5 +2,6 @@
 "name": "RaspberryPool",
 "description": "The best small pool",
 "ticker": "RAOOL",
-"homepage": "https://www.raspberry-stakepool.fr"
+"homepage": "https://www.raspberry-stakepool.fr",
+"extended": "https://raw.githubusercontent.com/RaspberryPool/RAOOL/master/extended.json"
 }
