@@ -1,0 +1,40 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Paris, France",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "RASPOOL",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "France",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Full-time IT Admin (AS400/Linux) \/ Developer during my spare time",
+            "server": "Two Raspberry Pi 8GB - 1GB SSD each - FTTH broadband (cluster Active-Passive)",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": [
+        "fb2ef0b6933e23890ae8ca4a4d3137f61991aab76b33a2426e0f6aa2"
+    ],
+    "when-satured-then-recommend": [
+        "96553a437b99271fdcaa30c279e432224342e88147741db73872f03c",
+        "eeb180952144eaf1aa5ff27a19322a5560e027ca1510bae10ec2e76a"
+    ],
+    "telegram-admin-handle": [
+        "RASPOOL"
+    ]
+}
