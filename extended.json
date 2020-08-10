@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "Full-time IT Admin (AS400/Linux) \/ Developer during my spare time",
-            "server": "Two Raspberry Pi 8GB - 1GB SSD each - FTTH broadband (cluster Active-Passive)",
+            "server": "Cluster of two Raspberry Pi 8GB - 1TB SSD (active-passive configuration). \nFTTH broadband",
             "company": ""
         },
         "rss": ""
