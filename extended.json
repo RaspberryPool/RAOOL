@@ -31,13 +31,13 @@
         },
         "rss": ""
     },
-    "my-pool-ids": [
+    "my-pool-ids": {
         "fb2ef0b6933e23890ae8ca4a4d3137f61991aab76b33a2426e0f6aa2"
-    ],
-    "when-satured-then-recommend": [
+    },
+    "when-satured-then-recommend": {
         "0": ""
-    ],
-    "telegram-admin-handle": [
+    },
+    "telegram-admin-handle": {
         "0": "RaoolFR"
-    ]
+    }
 }
