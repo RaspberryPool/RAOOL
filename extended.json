@@ -1,4 +1,8 @@
 {
+    "itn": {
+        "owner": "ed25519_pk1je7gjkgrfqasfug6zdnphwzdwxap465at3afm36pzkw679pwuagqev7ce3", 
+        "witness": "ed25519_sig1fu2dfaymakzjpgj9sla2l27len7lkvwfv3mgrtnnkznn2je9dcuu57eks8kmnxtw75ahj0992phcqp3jzgxhj58jf02jj5ehh0kkjpsq78ruz"
+        },
     "info": {
         "url_png_icon_64x64": "",
         "url_png_logo": "",
