@@ -26,7 +26,7 @@
         },
         "about": {
             "me": "Full-time IT Admin (AS400/Linux) running a stakepool since ITN.",
-            "server": "Cluster of two Raspberry Pi 8GB - 1TB SSD (active-passive configuration) at two different locations, powered with FTTH broadband",
+            "server": "One Intel-i5 NUC 16GB + Two Raspberry Pi 8GB sitting at different locations, powered with FTTH broadband",
             "company": ""
         },
         "rss": ""
