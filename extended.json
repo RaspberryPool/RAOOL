@@ -19,7 +19,7 @@
         "company": {
             "name": "",
             "addr": "",
-            "city": "Cergy",
+            "city": "Paris",
             "country": "France",
             "company_id": "",
             "vat_id": ""
@@ -38,6 +38,6 @@
         "0": ""
     },
     "telegram-admin-handle": {
-        "0": "RaoolFR"
+        "0": "RaSpool"
     }
 }
