@@ -1,7 +1,0 @@
-{
-"name": "RaspberryPool",
-"description": "Full-time IT Admin (AS400/Linux). Cluster of two Raspberry Pi 8GB - 1TB SSD (active-passive configuration) at two different locations, powered with FTTH broadband",
-"ticker": "RAOOL",
-"homepage": "https://www.raspberry-stakepool.fr",
-"extended": "https://raw.githubusercontent.com/RaspberryPool/RAOOL/master/extended.json"
-}
