@@ -6,10 +6,10 @@
     "info": {
         "url_png_icon_64x64": "",
         "url_png_logo": "",
-        "location": "Marseille, France",
+        "location": "Here, There",
         "social": {
-            "twitter_handle": "Rufya3",
-            "telegram_handle": "RaSpool",
+            "twitter_handle": "",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -19,14 +19,14 @@
         "company": {
             "name": "",
             "addr": "",
-            "city": "Marseille",
-            "country": "France",
+            "city": "Here",
+            "country": "There",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Full-time IT Admin (AS400/Linux) running a stakepool since ITN.",
-            "server": "One Intel-i5 NUC 16GB + Two Raspberry Pi 8GB sitting at different locations, powered with FTTH broadband",
+            "me": "",
+            "server": "",
             "company": ""
         },
         "rss": ""
@@ -38,6 +38,6 @@
         "0": ""
     },
     "telegram-admin-handle": {
-        "0": "RaSpool"
+        "0": ""
     }
 }
